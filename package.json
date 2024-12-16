@@ -1,0 +1,30 @@
+{
+  "name": "collabsheet",
+  "version": "1.0.0",
+  "description": "Create a document and collaborate with your friends!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dahiiv2/nodeProject.git"
+  },
+  "keywords": [
+    "Google",
+    "Documents",
+    "Clone",
+    "Code",
+    "Node",
+    "Write"
+  ],
+  "author": "Fran, Dani, Ana, Ivan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dahiiv2/nodeProject/issues"
+  },
+  "homepage": "https://github.com/dahiiv2/nodeProject#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
